@@ -1,15 +1,3 @@
-export const contactsData = {
-    email: 'mranidev@proton.me',
-    phone: '+212647382938',
-    address: 'Site Moulay Bouselham, Rabat, Morocco - 10203 ',
-    github: 'https://github.com/mranidev',
-    facebook: 'https://www.facebook.com/#',
-    linkedIn: 'https://www.linkedin.com/in/#',
-    twitter: 'https://twitter.com/#',
-    stackOverflow: 'https://stackoverflow.com/users/16840768/#',
-    devUsername: "mranidev"
-}
-
 export const personalData = {
   name: "Amine EL ALAOUI MRANI",
   profile: '/profile.png',
@@ -18,12 +6,12 @@ export const personalData = {
   email: 'abusaid7388@gmail.com',
   phone: '+8801608797655',
   address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
+  github: 'https://github.com/mranidev',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
   twitter: 'https://twitter.com/said7388',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  devUsername: "mranidev",
   resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
 }
